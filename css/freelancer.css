@@ -204,6 +204,12 @@ section.success {
   background: lightblue;
   color: darkblue;
 }
+section.count {
+  background: white;
+}
+section.featured{
+  background: lightblue;
+}
 @media (max-width: 767px) {
   section {
     padding: 75px 0;
