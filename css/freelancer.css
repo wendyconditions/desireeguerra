@@ -119,7 +119,7 @@ img {
   }
 }
 .navbar-custom {
-  background-color: white;
+  background-color: transparent;
   font-family: "Open Sans", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
@@ -154,6 +154,7 @@ img {
 .navbar-custom .navbar-nav li.active a:hover,
 .navbar-custom .navbar-nav li.active a:focus,
 .navbar-custom .navbar-nav li.active a:active {
+  background-color: white;
   color: white;
   background: darkblue;
 }
