@@ -210,7 +210,7 @@ section.count {
 section.featured{
   background: lightblue;
 }
-featured.img{
+.logos{
     display: inline-block;
     width: 150px;
     height: 75px;
