@@ -90,6 +90,10 @@ header .intro-text .skills {
   font-size: 1.25em;
   font-weight: 300;
 }
+img {
+  max-width: 400px;
+}
+
 @media (min-width: 768px) {
   header .container {
     padding-top: 200px;
