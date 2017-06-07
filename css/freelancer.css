@@ -30,7 +30,6 @@ h2 {
   font-family: "Open Sans", Helvetica, Arial, sans-serif;
   text-transform: none;
   font-weight: 400;
-  font-size: 18px;
   font-style: italic;
 }
 
@@ -197,7 +196,7 @@ section {
 }
 section h2 {
   margin: 0;
-  font-size: 3em;
+  font-size: 2em;
 }
 section.success {
   background: lightblue;
