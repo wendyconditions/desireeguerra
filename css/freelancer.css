@@ -126,24 +126,24 @@ img {
   letter-spacing: 1px;
 }
 .navbar-custom .navbar-nav li a {
-  color: white;
+  color: darkblue;
 }
 .navbar-custom .navbar-nav li a:hover {
-  color: darkblue;
+  color: lightblue;
 }
 .navbar-custom .navbar-nav li a:focus,
 .navbar-custom .navbar-nav li a:active {
-  color: white;
+  color: lightblue;
 }
 .navbar-custom .navbar-nav li.active a {
   color: white;
-  background: #18BC9C;
+  background: darkblue;
 }
 .navbar-custom .navbar-nav li.active a:hover,
 .navbar-custom .navbar-nav li.active a:focus,
 .navbar-custom .navbar-nav li.active a:active {
   color: white;
-  background: #18BC9C;
+  background: darkblue;
 }
 .navbar-custom .navbar-toggle {
   color: white;
