@@ -39,9 +39,9 @@ h2 {
 
 h3 {
   font-family: "Open Sans", Helvetica, Arial, sans-serif;
-  text-transform: none;
-  font-weight: 400;
-  font-size: 20px;
+  text-transform: none!important;
+  font-weight: 100;
+  font-size: 18px;
   letter-spacing: 1px; 
 }
 h4,
