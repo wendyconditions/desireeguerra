@@ -29,8 +29,9 @@ h1 {
 h2 {
   font-family: "Open Sans", Helvetica, Arial, sans-serif;
   text-transform: none;
-  font-weight: 700;
+  font-weight: 400;
   font-size: 25px;
+  text-transform: italic;
 }
 
 h3,
