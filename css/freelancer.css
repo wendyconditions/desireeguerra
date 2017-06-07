@@ -103,14 +103,14 @@ header .intro-text .skills {
   }
 }
 .navbar-custom {
-  background: transparent;
+  border-color: rgba(255, 0, 0, 0.02);
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
-  border: none;
+  
 }
 .navbar-custom .navbar-brand {
-  color: white;
+  color: blue;
 }
 .navbar-custom .navbar-brand:hover,
 .navbar-custom .navbar-brand:focus,
