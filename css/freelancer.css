@@ -107,20 +107,20 @@ img {
   }
 }
 .navbar-custom {
-  border-color: rgba(255, 0, 0, 0.02);
+  color: transparent;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
   
 }
 .navbar-custom .navbar-brand {
-  color: blue;
+  color: lightblue;
 }
 .navbar-custom .navbar-brand:hover,
 .navbar-custom .navbar-brand:focus,
 .navbar-custom .navbar-brand:active,
 .navbar-custom .navbar-brand.active {
-  color: white;
+  color: black;
 }
 .navbar-custom .navbar-nav {
   letter-spacing: 1px;
