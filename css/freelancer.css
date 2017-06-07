@@ -147,14 +147,15 @@ img {
 .navbar-custom .navbar-nav li a:active {
   color: lightblue;
 }
-.navbar-custom .navbar-nav li.active a {
+.navbar-nav li.active a {
+  background-color: white;
   color: white;
   background: darkblue;
 }
 .navbar-custom .navbar-nav li.active a:hover,
 .navbar-custom .navbar-nav li.active a:focus,
 .navbar-custom .navbar-nav li.active a:active {
-  background-color: white;
+  
   color: white;
   background: darkblue;
 }
