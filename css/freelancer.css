@@ -291,6 +291,10 @@ section.sponsors {
   background: black;
   color: white;
 }
+.headersection  {
+ background: black;
+ color: lightblue;
+}
 
 .logos{
     display: inline-block;
