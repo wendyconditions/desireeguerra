@@ -71,7 +71,39 @@ img.center {
                 opacity: 1;
             }
         }
+ @media (max-width:768px) {
+            #background {
+                background: #000000 url(http://i58.photobucket.com/albums/g253/wam922/title_page_full_background2_zps5jijg8nd.png) center center no-repeat;
+                background-size: 100% 100%;
+            }
+            p.main {
+                font-family: 'Open Sans', 'Arial Narrow', Arial, sans-serif;
+                font-weight: 100;
+                font-size: 1.2rem;
+                text-align: center;
+                letter-spacing: 2px;
+            }
 
+            p.font {
+                font-weight: 600!important;
+                color: #cfd1f3;
+                font-size: 2rem!important;
+            }
+
+            p.minitext {
+                font-size: 1rem !important;
+                font-style: italic;
+            }
+
+            .addresstext {
+                font-size: 1rem !important;
+                color: #cfd1f3;
+            }
+
+            .boldtext {
+                font-weight: 800;
+            }
+        }
 
 body {
   font-family: 'Open Sans', Helvetica, Arial, sans-serif;
