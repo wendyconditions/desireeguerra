@@ -3,6 +3,76 @@
  * Copyright 2013-2016 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
+ #background {
+            background-size: 100% 100%;
+            background-image: url("http://i58.photobucket.com/albums/g253/wam922/title_page_full_background2_zps5jijg8nd.png"); /* fallback */
+           
+}
+#brain {
+            
+            animation-name: flickering;
+            animation-duration: 1s;
+            animation-iteration-count: 2;
+            animation-timing-function: linear;
+        }
+.img-fluid {
+            max-width: 100%;
+            height: auto;
+        }
+
+
+img.center {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+ @keyframes flickering {
+            0% {
+                opacity: 1;
+            }
+
+            12% {
+                opacity: 1;
+            }
+
+            28% {
+                opacity: 0.5;
+            }
+
+            32% {
+                opacity: 1;
+            }
+
+            55% {
+                opacity: 0.5;
+            }
+
+            56% {
+                opacity: 1;
+            }
+
+            67% {
+                opacity: 0.5;
+            }
+
+            69% {
+                opacity: 1;
+            }
+
+            80% {
+                opacity: 0.5;
+            }
+
+            82% {
+                opacity: 1;
+            }
+
+            100% {
+                opacity: 1;
+            }
+        }
+
+
 body {
   font-family: 'Open Sans', Helvetica, Arial, sans-serif;
   overflow-x: hidden;
