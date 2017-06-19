@@ -9,7 +9,7 @@
            
 }
 #brain {
-            margin-top: 100px;
+            margin-top: 75px;
             animation-name: flickering;
             animation-duration: 1s;
             animation-iteration-count: 2;
