@@ -131,10 +131,18 @@ h1 {
   letter-spacing: 2px;
 }
 .header-type {
- font-family: "Open Sans", Helvetica, Arial, sans-serif;
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
-   font-size: 35px;
+  font-size: 35px;
+  letter-spacing: 2px;
+  color: #a8cbff;
+}
+.header2-type {
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-size: 18px;
   letter-spacing: 2px;
   color: #a8cbff;
 }
