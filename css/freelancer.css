@@ -290,6 +290,9 @@ header .intro-text .skills {
 img {
   max-width: 400px;
 }
+.thisFrame { 
+ max-width: 100%;
+}
 .cimage {
 	margin:auto;
 }
