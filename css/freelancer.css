@@ -79,7 +79,7 @@ img.center {
             p.main {
                 font-family: 'Open Sans', 'Arial Narrow', Arial, sans-serif;
                 font-weight: 100;
-                font-size: 1.2rem;
+                font-size: 1.2rem!important;
                 text-align: center;
                 letter-spacing: 2px;
                 text-transform: uppercase;
@@ -125,7 +125,7 @@ p {
 p.main {
     font-family: 'Open Sans', 'Arial Narrow', Arial, sans-serif;
     font-weight: 100;
-    font-size: 30px;
+    font-size: 20px;
     text-align: center;
     letter-spacing: 2px;
     text-transform: uppercase;
