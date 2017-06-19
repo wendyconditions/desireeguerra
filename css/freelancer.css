@@ -117,6 +117,7 @@ img.center {
             }
         }
  @media (max-width:768px) {
+	
             #background {
                 background: #000000 url(http://i58.photobucket.com/albums/g253/wam922/title_page_full_background2_zps5jijg8nd.png) center center no-repeat;
                 background-size: 100% 100%;
@@ -283,6 +284,14 @@ img {
 }
 
 @media (min-width: 768px) {
+	  #clockdiv > div{
+	padding: 5px;
+	border-radius: 3px;
+	background: #fff;
+        color: #000;
+	display: inline-block;
+        border-right: 1px solid #fff;
+}
   header .container {
     padding-top: 200px;
     padding-bottom: 100px;
@@ -400,14 +409,7 @@ section.sponsors {
 
 
 @media (max-width: 767px) {
-	 #clockdiv > div{
-	padding: 5px;
-	border-radius: 3px;
-	background: #fff;
-        color: #000;
-	display: inline-block;
-        border-right: 1px solid #fff;
-}
+	
   section {
     padding: 75px 0;
   }
