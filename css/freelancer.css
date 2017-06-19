@@ -397,9 +397,14 @@ section.featured{
   background: #f1f6ff;
 }
 section.sponsors {
-  background: black;
-  color: white;
+  background: #fff;
+  color: #000;
 }
+section.contact {
+	background: #a8cbff;
+	color:#000;
+}
+
 .headersection  {
  background: black;
  color: lightblue;
