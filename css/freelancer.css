@@ -145,6 +145,7 @@ h1 {
   font-size: 18px;
   letter-spacing: 2px;
   color: #a8cbff;
+  font-style: none!important;
 }
 h2 {
   font-family: "Open Sans", Helvetica, Arial, sans-serif;
