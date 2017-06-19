@@ -134,7 +134,7 @@
                 <div class="col-lg-12 text-center">
                     <h1>Countdown here</h1>
                         
-                        <p id="countdown-countdown" class="header-type"></p>
+                        <p id="countdownArea" class="header-type"></p>
     
                 </div>
             </div>
@@ -550,11 +550,11 @@
             var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
             var seconds = Math.floor((distance % (1000 * 60)) / 1000);
 
-            document.getElementById("countdown-countdown").innerHTML = days + " days " + hours + " hours " + minutes + " minutes " + seconds + " seconds ";
+            document.getElementById("countdownArea").innerHTML = days + " days " + hours + " hours " + minutes + " minutes " + seconds + " seconds ";
 
             if (distance < 0) {
                 clearInterval(x);
-                document.getElementById("countdown").innerHTML = "Let the show begin!";
+                document.getElementById("countdownArea").innerHTML = "Let the show begin!";
             }
         }, 1000);
     </script>
