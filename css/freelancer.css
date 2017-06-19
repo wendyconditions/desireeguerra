@@ -289,8 +289,11 @@ header .intro-text .skills {
 }
 img {
   max-width: 400px;
-  
 }
+.cimage {
+	margin:auto;
+}
+
 
 @media (min-width: 768px) {
   header .container {
