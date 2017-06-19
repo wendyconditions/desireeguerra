@@ -82,6 +82,8 @@ img.center {
                 font-size: 1.2rem;
                 text-align: center;
                 letter-spacing: 2px;
+                text-transform: uppercase;
+                color: #f1f6ff;
             }
 
             p.font {
