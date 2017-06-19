@@ -31,9 +31,9 @@ body{
 	padding: 10px;
 	border-radius: 3px;
 	background: #fff;
-    color: #000;
+        color: #000;
 	display: inline-block;
-    border-right: 2px solid #f1f6ff;
+        border-right: 2px solid #f1f6ff;
 }
 div.test {
   border-right: 2px solid #fff!important;
@@ -50,8 +50,8 @@ div.test {
 
 .smalltext{
 	padding-top: 5px;
-	font-size: 35px;
-  text-transform: uppercase;
+	font-size: 25px;
+        text-transform: uppercase;
 }
 #brain {
             margin-top: 75px;
