@@ -8,6 +8,51 @@
             background-image: url("http://i58.photobucket.com/albums/g253/wam922/title_page_full_background2_zps5jijg8nd.png"); /* fallback */
            
 }
+body{
+	text-align: center;
+	background: #fff;
+  font-family: sans-serif;
+  font-weight: 100;
+}
+
+
+#clockdiv{
+	font-family: sans-serif;
+	color: #fff;
+	display: inline-block;
+	font-weight: 100;
+	text-align: center;
+	font-size: 35px;
+  
+}
+
+
+#clockdiv > div{
+	padding: 10px;
+	border-radius: 3px;
+	background: #fff;
+    color: #000;
+	display: inline-block;
+    border-right: 2px solid #f1f6ff;
+}
+div.test {
+  border-right: 2px solid #fff!important;
+}
+
+
+#clockdiv div > span{
+	padding: 15px;
+	border-radius: 3px;
+	background: #fff;
+	display: inline-block;
+    color: #000
+}
+
+.smalltext{
+	padding-top: 5px;
+	font-size: 35px;
+  text-transform: uppercase;
+}
 #brain {
             margin-top: 75px;
             animation-name: flickering;
