@@ -99,7 +99,7 @@ img.center {
 
             .addresstext {
                 font-size: 1rem !important;
-                color: #cfd1f3;
+                color: #f1f6ff;
             }
 
             .boldtext {
@@ -123,6 +123,15 @@ p {
   letter-spacing: 1px;
 }
 p.main {
+    font-family: 'Open Sans', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 100;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #f1f6ff;
+}
+.addresstext {
     font-family: 'Open Sans', 'Arial Narrow', Arial, sans-serif;
     font-weight: 100;
     font-size: 20px;
