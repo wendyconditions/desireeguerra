@@ -544,10 +544,10 @@ footer .footer-below {
   background-color: #233140;
 }
 .btn-outline {
-  color: white;
+  color: #a8cbff;
   font-size: 20px;
-  border: solid 2px #fff;
-  background: transparent;
+  border: solid 2px #a8cbff;
+  background: #555;
   transition: all 0.3s ease-in-out;
   margin-top: 15px;
 }
