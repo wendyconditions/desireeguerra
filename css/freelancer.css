@@ -389,7 +389,7 @@ section h2 {
 }
 section.success {
   background: #a8cbff;
-  color: #000;
+  color: #333;
 }
 section.count {
   background: white;
