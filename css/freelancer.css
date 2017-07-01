@@ -61,7 +61,7 @@ a:hover,
 a:focus,
 a:active,
 a.active {
-    color: #18BC9C;
+    color: #233140;
 }
 
 h1 {
@@ -392,9 +392,9 @@ div.test {
 
         .navbar-custom .navbar-toggle:hover,
         .navbar-custom .navbar-toggle:focus {
-            background-color: #18BC9C;
+            background-color: #000000;
             color: white;
-            border-color: #000;
+            border-color: #000000;
         }
 
 @media (min-width: 768px) {
@@ -582,7 +582,7 @@ section {
 }
 
 .floating-label-form-group-with-focus label {
-    color: #18BC9C;
+    color: #000;
 }
 
 form .row:first-child .floating-label-form-group {
@@ -678,8 +678,8 @@ footer {
 
 .btn-success {
     color: white;
-    background-color: #18BC9C;
-    border-color: #18BC9C;
+    background-color: #000;
+    border-color: #000;
     font-weight: 700;
 }
 
