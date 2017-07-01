@@ -5,7 +5,7 @@
  */
  #background {
             background-size: 100% 100%;
-            background-image: url("https://wendyconditions.github.io/desireeguerra/portfolio/updated_backgound_100width.png"); /* fallback */
+            background-image: url("img/portfolio/updated_backgound_100width.png"); /* fallback */
            
 }
 body{
