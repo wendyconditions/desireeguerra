@@ -14,6 +14,8 @@ Using images from insecure photobucket. Upload into image file.
 
 Background image for desktop view
 
+Contact for disabled, validations/css still factored into code/ delete
+
 ## General Info
 
 August 26, 2017 7-11 pm
