@@ -328,7 +328,7 @@ img {
   letter-spacing: 1px;
 }
 .navbar-custom .navbar-nav li a {
-  color: darkblue;
+  color: #233140;
 }
 .navbar-custom .navbar-nav li a:hover {
   color: lightblue;
@@ -339,13 +339,13 @@ img {
 }
 .navbar-custom .navbar-nav li.active a {
   color: white;
-  background: darkblue;
+  background: #233140;
 }
 .navbar-custom .navbar-nav li.active a:hover,
 .navbar-custom .navbar-nav li.active a:focus,
 .navbar-custom .navbar-nav li.active a:active {
   color: white;
-  background: darkblue;
+  background: #233140;
 }
 .navbar-custom .navbar-toggle {
   color: white;
@@ -358,7 +358,7 @@ img {
 .navbar-custom .navbar-toggle:focus {
   background-color: #18BC9C;
   color: white;
-  border-color: #18BC9C;
+  border-color: #000;
 }
 @media (min-width: 768px) {
   .navbar-custom {
