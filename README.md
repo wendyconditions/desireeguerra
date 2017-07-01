@@ -8,6 +8,8 @@ Add email to contact links/buttons
 
 Change colors of active links
 
+Remove Javascript from html file (countdown). Placed for testing purposes.
+
 ## Bugs and Issues
 
 Using images from insecure photobucket. Upload into image file.
